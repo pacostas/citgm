@@ -2,22 +2,8 @@
 
 json_file="./lib/lookup.json"
 
-# Extract attribute names using jq from the file
-attribute_names=$(jq -r 'keys[]' "$json_file")
-
-# Print attribute names
-for attribute_name in $attribute_names; do
-    echo "$attribute_name"
-done
-
-# Check if jq is available
-command -v jq >/dev/null 2>&1 || {
-    echo >&2 "jq is required but not installed. Aborting."
-    exit 1
-}
-
-# Extract attribute names using jq
-attribute_names=$(echo "$json_object" | jq -r 'keys[]')
+# Extract attribute names using grep and sed
+attribute_names=$(grep -o '^\s*"[^"]*"' "$json_file" | sed 's/"//g')
 
 node_version="$1"
 
