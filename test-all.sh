@@ -2,8 +2,9 @@
 
 json_file="./lib/lookup.json"
 node_version=$(node -v | cut -d. -f1)
-citgm_failed_file="node_${node_version}_citgm_failed.txt"
-citgm_passed_file="node_${node_version}_citgm_failed.txt"
+arch=$(uname -m)
+citgm_failed_file="${arch}_node_${node_version}_citgm_failed.txt"
+citgm_passed_file="${arch}_node_${node_version}_citgm_passed.txt"
 
 total_attributes=$(jq -r 'keys[]' "$json_file" | wc -l)
 completed_attributes=0
