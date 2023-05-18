@@ -12,7 +12,7 @@ completed_attributes=0
 # Extract attribute names using jq from the file
 attribute_names=$(jq -r 'keys[]' "$json_file")
 
-echo "Node version: $node_version"
+echo "Node version: $node_version Arch version: $arch" 
 
 for attribute_name in $attribute_names; do
     completed_attributes=$((completed_attributes + 1))
