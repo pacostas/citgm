@@ -468,3 +468,1239 @@ info: module name:        | express-session
 info: version:            | 1.17.3              
 info: done                | The smoke test has passed.
 info: duration            | test duration: 12605ms
+fastify: info: starting            | fastify             
+info: lookup              | fastify             
+info: lookup-found        | fastify             
+info: fastify lookup-replace| https://github.com/fastify/fastify/archive/0dd31b71eeb79da4a43738473eaebcf5844fc8d4.tar.gz
+info: fastify npm:        | Downloading project: https://github.com/fastify/fastify/archive/0dd31b71eeb79da4a43738473eaebcf5844fc8d4.tar.gz
+info: fastify npm:        | Project downloaded 0dd31b71eeb79da4a43738473eaebcf5844fc8d4.tar.gz
+info: fastify npm:        | npm install started 
+warn: fastify npm-install:| npm                 
+warn: fastify npm-install:| notice                                                                
+warn:                     | npm notice New minor version of npm available! 9.5.1 -> 9.6.6         
+warn:                     | npm notice Changelog: <https://github.com/npm/cli/releases/tag/v9.6.6>
+warn:                     | npm notice Run `npm install -g npm@9.6.6` to update!                  
+warn:                     | npm notice                                                            
+info: fastify npm:        | npm install successfully completed
+info: fastify npm:        | test suite started  
+info: passing module(s)   |                     
+info: module name:        | fastify             
+info: version:            | 4.17.0              
+info: done                | The smoke test has passed.
+info: duration            | test duration: 114112ms
+flush-write-stream: info: starting            | flush-write-stream  
+info: lookup              | flush-write-stream  
+info: lookup-found        | flush-write-stream  
+info: flush-write-stream lookup-replace| https://github.com/mafintosh/flush-write-stream/archive/cea3fbb3a3d11fb1e226d8893a1749178627b284.tar.gz
+info: flush-write-stream npm:| Downloading project: https://github.com/mafintosh/flush-write-stream/archive/cea3fbb3a3d11fb1e226d8893a1749178627b284.tar.gz
+info: flush-write-stream npm:| Project downloaded cea3fbb3a3d11fb1e226d8893a1749178627b284.tar.gz
+info: flush-write-stream npm:| npm install started 
+warn: flush-write-stream npm-install:| npm notice                                                            
+warn:                                | npm notice New minor version of npm available! 9.5.1 -> 9.6.6         
+warn:                                | npm notice Changelog: <https://github.com/npm/cli/releases/tag/v9.6.6>
+warn:                                | npm notice Run `npm install -g npm@9.6.6` to update!                  
+warn:                                | npm notice                                                            
+info: flush-write-stream npm:| npm install successfully completed
+info: flush-write-stream npm:| test suite started  
+info: passing module(s)   |                     
+info: module name:        | flush-write-stream  
+info: version:            | 2.0.0               
+info: done                | The smoke test has passed.
+info: duration            | test duration: 10820ms
+from2: info: starting            | from2               
+info: lookup              | from2               
+info: lookup-found        | from2               
+info: from2 lookup-replace| https://github.com/hughsk/from2/archive/09243c8b8354420059c9bc935875e1896aa58c10.tar.gz
+info: from2 npm:          | Downloading project: https://github.com/hughsk/from2/archive/09243c8b8354420059c9bc935875e1896aa58c10.tar.gz
+info: from2 npm:          | Project downloaded 09243c8b8354420059c9bc935875e1896aa58c10.tar.gz
+info: from2 npm:          | npm install started 
+warn: from2 npm-install:  | npm notice          
+warn:                     | npm notice          
+warn: from2 npm-install:  | New minor version of npm available! 9.5.1 -> 9.6.6                    
+warn:                     | npm notice Changelog: <https://github.com/npm/cli/releases/tag/v9.6.6>
+warn:                     | npm notice Run `npm install -g npm@9.6.6` to update!                  
+warn:                     | npm notice                                                            
+info: from2 npm:          | npm install successfully completed
+info: from2 npm:          | test suite started  
+info: passing module(s)   |                     
+info: module name:        | from2               
+info: version:            | 2.3.0               
+info: done                | The smoke test has passed.
+info: duration            | test duration: 8762ms
+fs-extra: info: starting            | fs-extra            
+info: lookup              | fs-extra            
+info: lookup-found        | fs-extra            
+info: fs-extra lookup-replace| https://github.com/jprichardson/node-fs-extra/archive/cc7b3b22a984de5124131c7897574091c9df00e1.tar.gz
+info: fs-extra npm:       | Downloading project: https://github.com/jprichardson/node-fs-extra/archive/cc7b3b22a984de5124131c7897574091c9df00e1.tar.gz
+info: fs-extra npm:       | Project downloaded cc7b3b22a984de5124131c7897574091c9df00e1.tar.gz
+info: fs-extra npm:       | npm install started 
+info: fs-extra npm:       | npm install successfully completed
+info: fs-extra npm:       | test suite started  
+info: passing module(s)   |                     
+info: module name:        | fs-extra            
+info: version:            | 11.1.1              
+info: done                | The smoke test has passed.
+info: duration            | test duration: 23910ms
+full-icu-test: info: starting            | full-icu-test       
+info: lookup              | full-icu-test       
+info: lookup-found        | full-icu-test       
+info: full-icu-test lookup-replace| https://github.com/unicode-org/full-icu-test/archive/26a13fe2ae8e5690cb766f258d009614041a854b.tar.gz
+info: full-icu-test npm:  | Downloading project: https://github.com/unicode-org/full-icu-test/archive/26a13fe2ae8e5690cb766f258d009614041a854b.tar.gz
+info: full-icu-test npm:  | Project downloaded 26a13fe2ae8e5690cb766f258d009614041a854b.tar.gz
+info: full-icu-test npm:  | npm install started 
+warn: full-icu-test npm-install:| npm notice                                                            
+warn:                           | npm notice New minor version of npm available! 9.5.1 -> 9.6.6         
+warn:                           | npm notice Changelog: <https://github.com/npm/cli/releases/tag/v9.6.6>
+warn:                           | npm notice Run `npm install -g npm@9.6.6` to update!                  
+warn:                           | npm notice                                                            
+info: full-icu-test npm:  | npm install successfully completed
+info: full-icu-test npm:  | test suite started  
+info: passing module(s)   |                     
+info: module name:        | full-icu-test       
+info: version:            | 1.0.3               
+info: done                | The smoke test has passed.
+info: duration            | test duration: 2675ms
+glob: info: starting            | glob                
+info: lookup              | glob                
+info: lookup-found        | glob                
+info: glob lookup-replace | https://github.com/isaacs/node-glob/archive/4d9f753e94f5ace23152d4d5babdc839f1bf2003.tar.gz
+info: glob npm:           | Downloading project: https://github.com/isaacs/node-glob/archive/4d9f753e94f5ace23152d4d5babdc839f1bf2003.tar.gz
+info: glob npm:           | Project downloaded 4d9f753e94f5ace23152d4d5babdc839f1bf2003.tar.gz
+info: glob npm:           | npm install started 
+warn: glob npm-install:   | npm                 
+warn: glob npm-install:   | notice                                                                
+warn:                     | npm notice New minor version of npm available! 9.5.1 -> 9.6.6         
+warn:                     | npm notice Changelog: <https://github.com/npm/cli/releases/tag/v9.6.6>
+warn:                     | npm notice Run `npm install -g npm@9.6.6` to update!                  
+warn:                     | npm notice                                                            
+info: glob npm:           | npm install successfully completed
+info: glob npm:           | test suite started  
+info: passing module(s)   |                     
+info: module name:        | glob                
+info: version:            | 10.2.5              
+info: done                | The smoke test has passed.
+info: duration            | test duration: 45733ms
+graceful-fs: info: starting            | graceful-fs         
+info: lookup              | graceful-fs         
+info: lookup-found        | graceful-fs         
+info: graceful-fs lookup-replace| https://github.com/isaacs/node-graceful-fs/archive/514861c372899df14beb7aaecca4cdbb498d7d11.tar.gz
+info: graceful-fs npm:    | Downloading project: https://github.com/isaacs/node-graceful-fs/archive/514861c372899df14beb7aaecca4cdbb498d7d11.tar.gz
+info: graceful-fs npm:    | Project downloaded 514861c372899df14beb7aaecca4cdbb498d7d11.tar.gz
+info: graceful-fs npm:    | npm install started 
+warn: graceful-fs npm-install:| npm notice                                                            
+warn:                         | npm notice New minor version of npm available! 9.5.1 -> 9.6.6         
+warn:                         | npm notice Changelog: <https://github.com/npm/cli/releases/tag/v9.6.6>
+warn:                         | npm notice Run `npm install -g npm@9.6.6` to update!                  
+warn:                         | npm notice                                                            
+info: graceful-fs npm:    | npm install successfully completed
+info: graceful-fs npm:    | test suite started  
+info: passing module(s)   |                     
+info: module name:        | graceful-fs         
+info: version:            | 4.2.11              
+info: done                | The smoke test has passed.
+info: duration            | test duration: 38637ms
+gulp: info: starting            | gulp                
+info: lookup              | gulp                
+info: lookup-found        | gulp                
+info: gulp lookup-replace | https://github.com/gulpjs/gulp/archive/069350a5febf65adc27bc816a7805471b7d96f03.tar.gz
+info: gulp npm:           | Downloading project: https://github.com/gulpjs/gulp/archive/069350a5febf65adc27bc816a7805471b7d96f03.tar.gz
+info: gulp npm:           | Project downloaded 069350a5febf65adc27bc816a7805471b7d96f03.tar.gz
+info: gulp npm:           | npm install started 
+warn: gulp npm-install:   | npm notice                                                            
+warn:                     | npm notice New minor version of npm available! 9.5.1 -> 9.6.6         
+warn:                     | npm notice Changelog: <https://github.com/npm/cli/releases/tag/v9.6.6>
+warn:                     | npm notice Run `npm install -g npm@9.6.6` to update!                  
+warn:                     | npm notice                                                            
+info: gulp npm:           | npm install successfully completed
+info: gulp npm:           | test suite started  
+info: passing module(s)   |                     
+info: module name:        | gulp                
+info: version:            | 4.0.2               
+info: done                | The smoke test has passed.
+info: duration            | test duration: 15100ms
+gulp-util: info: starting            | gulp-util           
+info: lookup              | gulp-util           
+info: lookup-found        | gulp-util           
+info: gulp-util lookup-replace| https://github.com/gulpjs/gulp-util/archive/28c2aa2a3f8782a995b47ed051ab52885c705024.tar.gz
+info: gulp-util npm:      | Downloading project: https://github.com/gulpjs/gulp-util/archive/28c2aa2a3f8782a995b47ed051ab52885c705024.tar.gz
+info: gulp-util npm:      | Project downloaded 28c2aa2a3f8782a995b47ed051ab52885c705024.tar.gz
+info: gulp-util npm:      | npm install started 
+warn: gulp-util npm-install:| npm notice                                                            
+warn:                       | npm notice New minor version of npm available! 9.5.1 -> 9.6.6         
+warn:                       | npm notice Changelog: <https://github.com/npm/cli/releases/tag/v9.6.6>
+warn:                       | npm notice Run `npm install -g npm@9.6.6` to update!                  
+warn:                       | npm notice                                                            
+info: gulp-util npm:      | npm install successfully completed
+info: gulp-util npm:      | test suite started  
+info: passing module(s)   |                     
+info: module name:        | gulp-util           
+info: version:            | 3.0.8               
+info: done                | The smoke test has passed.
+info: duration            | test duration: 5811ms
+iconv: info: starting            | iconv               
+info: lookup              | iconv               
+info: lookup-found        | iconv               
+info: iconv lookup-replace| https://github.com/bnoordhuis/node-iconv/archive/c6e7dc65b7bf9fb6681210591361cca98e349dec.tar.gz
+info: iconv npm:          | Downloading project: https://github.com/bnoordhuis/node-iconv/archive/c6e7dc65b7bf9fb6681210591361cca98e349dec.tar.gz
+info: iconv npm:          | Project downloaded c6e7dc65b7bf9fb6681210591361cca98e349dec.tar.gz
+info: iconv npm:          | npm install started 
+warn: iconv npm-install:  | npm                 
+warn: iconv npm-install:  | notice                                                                
+warn:                     | npm notice New minor version of npm available! 9.5.1 -> 9.6.6         
+warn:                     | npm notice Changelog: <https://github.com/npm/cli/releases/tag/v9.6.6>
+warn:                     | npm notice Run `npm install -g npm@9.6.6` to update!                  
+warn:                     | npm notice                                                            
+info: iconv npm:          | npm install successfully completed
+info: iconv npm:          | test suite started  
+info: passing module(s)   |                     
+info: module name:        | iconv               
+info: version:            | 3.0.1               
+info: done                | The smoke test has passed.
+info: duration            | test duration: 7624ms
+inherits: info: starting            | inherits            
+info: lookup              | inherits            
+info: lookup-found        | inherits            
+info: inherits lookup-replace| https://github.com/isaacs/inherits/archive/9a2c29400c6d491e0b7beefe0c32efa3b462545d.tar.gz
+info: inherits npm:       | Downloading project: https://github.com/isaacs/inherits/archive/9a2c29400c6d491e0b7beefe0c32efa3b462545d.tar.gz
+info: inherits npm:       | Project downloaded 9a2c29400c6d491e0b7beefe0c32efa3b462545d.tar.gz
+info: inherits npm:       | npm install started 
+warn: inherits npm-install:| npm notice                                                            
+warn:                      | npm notice New minor version of npm available! 9.5.1 -> 9.6.6         
+warn:                      | npm notice Changelog: <https://github.com/npm/cli/releases/tag/v9.6.6>
+warn:                      | npm notice Run `npm install -g npm@9.6.6` to update!                  
+warn:                      | npm notice                                                            
+info: inherits npm:       | npm install successfully completed
+info: inherits npm:       | test suite started  
+info: passing module(s)   |                     
+info: module name:        | inherits            
+info: version:            | 2.0.4               
+info: done                | The smoke test has passed.
+info: duration            | test duration: 10366ms
+is-core-module: info: starting            | is-core-module      
+info: lookup              | is-core-module      
+info: lookup-found        | is-core-module      
+info: is-core-module lookup-replace| https://github.com/inspect-js/is-core-module/archive/77d33fb50747b9b6a89841542f6628fd00fb2cf0.tar.gz
+info: is-core-module npm: | Downloading project: https://github.com/inspect-js/is-core-module/archive/77d33fb50747b9b6a89841542f6628fd00fb2cf0.tar.gz
+info: is-core-module npm: | Project downloaded 77d33fb50747b9b6a89841542f6628fd00fb2cf0.tar.gz
+info: is-core-module npm: | npm install started 
+warn: is-core-module npm-install:| npm                 
+warn: is-core-module npm-install:| notice                                                                
+warn:                            | npm notice New minor version of npm available! 9.5.1 -> 9.6.6         
+warn:                            | npm notice Changelog: <https://github.com/npm/cli/releases/tag/v9.6.6>
+warn:                            | npm notice Run `npm install -g npm@9.6.6` to update!                  
+warn:                            | npm notice                                                            
+info: is-core-module npm: | npm install successfully completed
+info: is-core-module npm: | test suite started  
+info: passing module(s)   |                     
+info: module name:        | is-core-module      
+info: version:            | 2.12.1              
+info: done                | The smoke test has passed.
+info: duration            | test duration: 20654ms
+isarray: info: starting            | isarray             
+info: lookup              | isarray             
+info: lookup-found        | isarray             
+info: isarray lookup-replace| https://github.com/juliangruber/isarray/archive/63ea4ca0a0d6b0574d6a470ebd26880c3026db4a.tar.gz
+info: isarray npm:        | Downloading project: https://github.com/juliangruber/isarray/archive/63ea4ca0a0d6b0574d6a470ebd26880c3026db4a.tar.gz
+info: isarray npm:        | Project downloaded 63ea4ca0a0d6b0574d6a470ebd26880c3026db4a.tar.gz
+info: isarray npm:        | npm install started 
+info: isarray npm:        | npm install successfully completed
+info: isarray npm:        | test suite started  
+info: passing module(s)   |                     
+info: module name:        | isarray             
+info: version:            | 2.0.5               
+info: done                | The smoke test has passed.
+info: duration            | test duration: 2583ms
+jest: info: starting            | jest                
+info: lookup              | jest                
+info: lookup-found        | jest                
+info: jest lookup-replace | https://github.com/facebook/jest/archive/39f3beda6b396665bebffab94e8d7c45be30454c.tar.gz
+info: jest yarn:          | Downloading project: https://github.com/facebook/jest/archive/39f3beda6b396665bebffab94e8d7c45be30454c.tar.gz
+info: jest npm:           | Project downloaded 39f3beda6b396665bebffab94e8d7c45be30454c.tar.gz
+info: jest yarn:          | yarn install started
+info: jest yarn:          | yarn install successfully completed
+info: jest yarn:          | test suite started  
+info: passing module(s)   |                     
+info: module name:        | jest                
+info: version:            | 29.5.0              
+info: done                | The smoke test has passed.
+info: duration            | test duration: 966268ms
+koa: info: starting            | koa                 
+info: lookup              | koa                 
+info: lookup-found        | koa                 
+info: koa lookup-replace  | https://github.com/koajs/koa/archive/1cdae957cd8fb0d960e39e0a51ef156deea6381f.tar.gz
+info: koa npm:            | Downloading project: https://github.com/koajs/koa/archive/1cdae957cd8fb0d960e39e0a51ef156deea6381f.tar.gz
+info: koa npm:            | Project downloaded 1cdae957cd8fb0d960e39e0a51ef156deea6381f.tar.gz
+info: koa npm:            | npm install started 
+warn: koa npm-install:    | npm                 
+warn: koa npm-install:    | notice                                                                
+warn:                     | npm notice New minor version of npm available! 9.5.1 -> 9.6.6         
+warn:                     | npm notice Changelog: <https://github.com/npm/cli/releases/tag/v9.6.6>
+warn:                     | npm notice Run `npm install -g npm@9.6.6` to update!                  
+warn:                     | npm notice                                                            
+info: koa npm:            | npm install successfully completed
+info: koa npm:            | test suite started  
+info: passing module(s)   |                     
+info: module name:        | koa                 
+info: version:            | 2.14.2              
+info: done                | The smoke test has passed.
+info: duration            | test duration: 12716ms
+level: info: starting            | level               
+info: lookup              | level               
+info: lookup-found        | level               
+info: level lookup-replace| https://github.com/Level/level/archive/a5b9f418f7b3924bb30c4bf94bcac824f8680366.tar.gz
+info: level npm:          | Downloading project: https://github.com/Level/level/archive/a5b9f418f7b3924bb30c4bf94bcac824f8680366.tar.gz
+info: level npm:          | Project downloaded a5b9f418f7b3924bb30c4bf94bcac824f8680366.tar.gz
+info: level npm:          | npm install started 
+warn: level npm-install:  | npm notice                                                            
+warn:                     | npm notice New minor version of npm available! 9.5.1 -> 9.6.6         
+warn:                     | npm notice Changelog: <https://github.com/npm/cli/releases/tag/v9.6.6>
+warn:                     | npm notice Run `npm install -g npm@9.6.6` to update!                  
+warn:                     | npm notice                                                            
+info: level npm:          | npm install successfully completed
+info: level npm:          | test suite started  
+info: passing module(s)   |                     
+info: module name:        | level               
+info: version:            | 8.0.0               
+info: done                | The smoke test has passed.
+info: duration            | test duration: 131695ms
+leveldown: info: starting            | leveldown           
+info: lookup              | leveldown           
+info: lookup-found        | leveldown           
+info: leveldown lookup-replace| https://github.com/Level/leveldown.git
+info: leveldown npm:      | npm install started 
+warn: leveldown npm-install:| ../deps/leveldb/leveldb-1.20/util/hash.cc: In function ‘uint32_t leveldb::Hash(const char*, size_t, uint32_t)’:   
+warn:                       | ../deps/leveldb/leveldb-1.20/util/hash.cc:37:9: warning: this statement may fall through [-Wimplicit-fallthrough=]
+warn:                       | 37 |       h += static_cast<unsigned char>(data[2]) << 16;                                                        
+warn:                       | |       ~~^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~                                                            
+warn:                       | ../deps/leveldb/leveldb-1.20/util/hash.cc:39:5: note: here                                                        
+warn:                       | 39 |     case 2:                                                                                                  
+warn:                       | |     ^~~~                                                                                                        
+warn:                       | ../deps/leveldb/leveldb-1.20/util/hash.cc:40:9: warning: this statement may fall through [-Wimplicit-fallthrough=]
+warn:                       | 40 |       h += static_cast<unsigned char>(data[1]) << 8;                                                         
+warn:                       | |       ~~^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~                                                             
+warn:                       | ../deps/leveldb/leveldb-1.20/util/hash.cc:42:5: note: here                                                        
+warn:                       | 42 |     case 1:                                                                                                  
+warn:                       | |     ^~~~                                                                                                        
+warn: leveldown npm-install:| npm notice          
+warn:                       | npm                 
+warn: leveldown npm-install:| notice New minor version of npm available! 9.5.1 -> 9.6.6             
+warn:                       | npm notice Changelog: <https://github.com/npm/cli/releases/tag/v9.6.6>
+warn:                       | npm notice Run `npm install -g npm@9.6.6` to update!                  
+warn:                       | npm notice                                                            
+info: leveldown npm:      | npm install successfully completed
+info: leveldown npm:      | test suite started  
+info: passing module(s)   |                     
+info: module name:        | leveldown           
+info: version:            | 6.1.1               
+info: done                | The smoke test has passed.
+info: duration            | test duration: 75341ms
+lodash: info: starting            | lodash              
+info: lookup              | lodash              
+info: lookup-found        | lodash              
+info: lodash lookup-replace| https://github.com/lodash/lodash/archive/c6e281b878b315c7a10d90f9c2af4cdb112d9625.tar.gz
+info: lodash npm:         | Downloading project: https://github.com/lodash/lodash/archive/c6e281b878b315c7a10d90f9c2af4cdb112d9625.tar.gz
+info: lodash npm:         | Project downloaded c6e281b878b315c7a10d90f9c2af4cdb112d9625.tar.gz
+info: lodash npm:         | npm install started 
+info: lodash npm:         | npm install successfully completed
+info: lodash npm:         | test suite started  
+info: passing module(s)   |                     
+info: module name:        | lodash              
+info: version:            | 4.17.21             
+info: done                | The smoke test has passed.
+info: duration            | test duration: 3080ms
+microtime: info: starting            | microtime           
+info: lookup              | microtime           
+info: lookup-found        | microtime           
+info: microtime lookup-replace| https://github.com/wadey/node-microtime/archive/c6ce571579d5c3da2b346e53e91722e5763bfebc.tar.gz
+info: microtime npm:      | Downloading project: https://github.com/wadey/node-microtime/archive/c6ce571579d5c3da2b346e53e91722e5763bfebc.tar.gz
+info: microtime npm:      | Project downloaded c6ce571579d5c3da2b346e53e91722e5763bfebc.tar.gz
+info: microtime npm:      | npm install started 
+warn: microtime npm-install:| npm                 
+warn: microtime npm-install:| notice                                                                
+warn:                       | npm notice New minor version of npm available! 9.5.1 -> 9.6.6         
+warn:                       | npm notice Changelog: <https://github.com/npm/cli/releases/tag/v9.6.6>
+warn:                       | npm notice Run `npm install -g npm@9.6.6` to update!                  
+warn:                       | npm notice                                                            
+info: microtime npm:      | npm install successfully completed
+info: microtime npm:      | test suite started  
+info: passing module(s)   |                     
+info: module name:        | microtime           
+info: version:            | 3.1.1               
+info: done                | The smoke test has passed.
+info: duration            | test duration: 19467ms
+mime: info: starting            | mime                
+info: lookup              | mime                
+info: lookup-found        | mime                
+info: mime lookup-replace | https://github.com/broofa/mime/archive/0e268c96b9d8f11bf6d39509d26980bdec9a42f9.tar.gz
+info: mime npm:           | Downloading project: https://github.com/broofa/mime/archive/0e268c96b9d8f11bf6d39509d26980bdec9a42f9.tar.gz
+info: mime npm:           | Project downloaded 0e268c96b9d8f11bf6d39509d26980bdec9a42f9.tar.gz
+info: mime npm:           | npm install started 
+info: mime npm:           | npm install successfully completed
+info: mime npm:           | test suite started  
+info: passing module(s)   |                     
+info: module name:        | mime                
+info: version:            | 3.0.0               
+info: done                | The smoke test has passed.
+info: duration            | test duration: 10606ms
+minimist: info: starting            | minimist            
+info: lookup              | minimist            
+info: lookup-found        | minimist            
+info: minimist lookup-replace| https://github.com/minimistjs/minimist/archive/6901ee286bc4c16da6830b48b46ce1574703cea1.tar.gz
+info: minimist npm:       | Downloading project: https://github.com/minimistjs/minimist/archive/6901ee286bc4c16da6830b48b46ce1574703cea1.tar.gz
+info: minimist npm:       | Project downloaded 6901ee286bc4c16da6830b48b46ce1574703cea1.tar.gz
+info: minimist npm:       | npm install started 
+warn: minimist npm-install:| npm                 
+warn: minimist npm-install:| notice                                                                
+warn:                      | npm notice New minor version of npm available! 9.5.1 -> 9.6.6         
+warn:                      | npm notice Changelog: <https://github.com/npm/cli/releases/tag/v9.6.6>
+warn:                      | npm notice Run `npm install -g npm@9.6.6` to update!                  
+warn:                      | npm notice                                                            
+info: minimist npm:       | npm install successfully completed
+info: minimist npm:       | test suite started  
+info: passing module(s)   |                     
+info: module name:        | minimist            
+info: version:            | 1.2.8               
+info: done                | The smoke test has passed.
+info: duration            | test duration: 30815ms
+moment: info: starting            | moment              
+info: lookup              | moment              
+info: lookup-found        | moment              
+info: moment lookup-replace| https://github.com/moment/moment/archive/2.29.4.tar.gz
+info: moment npm:         | Downloading project: https://github.com/moment/moment/archive/2.29.4.tar.gz
+info: moment npm:         | Project downloaded 2.29.4.tar.gz
+info: moment npm:         | npm install started 
+warn: moment npm-install: | npm notice                                                            
+warn:                     | npm notice New minor version of npm available! 9.5.1 -> 9.6.6         
+warn:                     | npm notice Changelog: <https://github.com/npm/cli/releases/tag/v9.6.6>
+warn:                     | npm notice Run `npm install -g npm@9.6.6` to update!                  
+warn:                     | npm notice                                                            
+info: moment npm:         | npm install successfully completed
+info: moment npm:         | test suite started  
+info: passing module(s)   |                     
+info: module name:        | moment              
+info: version:            | 2.29.4              
+info: done                | The smoke test has passed.
+info: duration            | test duration: 31730ms
+nan: info: starting            | nan                 
+info: lookup              | nan                 
+info: lookup-found        | nan                 
+info: nan lookup-replace  | https://github.com/nodejs/nan/archive/HEAD.tar.gz
+info: nan npm:            | Downloading project: https://github.com/nodejs/nan/archive/HEAD.tar.gz
+info: nan npm:            | Project downloaded HEAD.tar.gz
+info: nan npm:            | npm install started 
+warn: nan npm-install:    | npm notice                                                            
+warn:                     | npm notice New minor version of npm available! 9.5.1 -> 9.6.6         
+warn:                     | npm notice Changelog: <https://github.com/npm/cli/releases/tag/v9.6.6>
+warn:                     | npm notice Run `npm install -g npm@9.6.6` to update!                  
+warn:                     | npm notice                                                            
+info: nan npm:            | npm install successfully completed
+info: nan npm:            | test suite started  
+info: passing module(s)   |                     
+info: module name:        | nan                 
+info: version:            | 2.17.0              
+info: done                | The smoke test has passed.
+info: duration            | test duration: 59747ms
+node-gyp: info: starting            | node-gyp            
+info: lookup              | node-gyp            
+info: lookup-found        | node-gyp            
+info: node-gyp lookup-replace| https://github.com/nodejs/node-gyp/archive/39ac2c135db8a9e62bf22f0c7a4469ae6c381325.tar.gz
+info: node-gyp npm:       | Downloading project: https://github.com/nodejs/node-gyp/archive/39ac2c135db8a9e62bf22f0c7a4469ae6c381325.tar.gz
+info: node-gyp npm:       | Project downloaded 39ac2c135db8a9e62bf22f0c7a4469ae6c381325.tar.gz
+info: node-gyp npm:       | npm install started 
+warn: node-gyp npm-install:| npm notice                                                            
+warn:                      | npm notice New minor version of npm available! 9.5.1 -> 9.6.6         
+warn:                      | npm notice Changelog: <https://github.com/npm/cli/releases/tag/v9.6.6>
+warn:                      | npm notice Run `npm install -g npm@9.6.6` to update!                  
+warn:                      | npm notice                                                            
+info: node-gyp npm:       | npm install successfully completed
+info: node-gyp npm:       | test suite started  
+info: passing module(s)   |                     
+info: module name:        | node-gyp            
+info: version:            | 9.3.1               
+info: done                | The smoke test has passed.
+info: duration            | test duration: 44648ms
+node-sass: info: starting            | node-sass           
+info: lookup              | node-sass           
+info: lookup-found        | node-sass           
+info: node-sass lookup-replace| https://github.com/sass/node-sass/archive/8edbedd500ccae73b0e33873c202108f60b6c15b.tar.gz
+info: node-sass npm:      | Downloading project: https://github.com/sass/node-sass/archive/8edbedd500ccae73b0e33873c202108f60b6c15b.tar.gz
+info: node-sass npm:      | Project downloaded 8edbedd500ccae73b0e33873c202108f60b6c15b.tar.gz
+info: node-sass npm:      | npm install started 
+warn: node-sass npm-install:| npm                 
+warn: node-sass npm-install:| notice                                                                
+warn:                       | npm notice New minor version of npm available! 9.5.1 -> 9.6.6         
+warn:                       | npm notice Changelog: <https://github.com/npm/cli/releases/tag/v9.6.6>
+warn:                       | npm notice Run `npm install -g npm@9.6.6` to update!                  
+warn:                       | npm notice                                                            
+info: node-sass npm:      | npm install successfully completed
+info: node-sass npm:      | test suite started  
+info: passing module(s)   |                     
+info: module name:        | node-sass           
+info: version:            | 8.0.0               
+info: done                | The smoke test has passed.
+info: duration            | test duration: 68673ms
+path-to-regexp: info: starting            | path-to-regexp      
+info: lookup              | path-to-regexp      
+info: lookup-found        | path-to-regexp      
+info: path-to-regexp lookup-replace| https://github.com/pillarjs/path-to-regexp/archive/b0778f5e8e6c6e9ee4e2f5b34e877cc5229f8036.tar.gz
+info: path-to-regexp npm: | Downloading project: https://github.com/pillarjs/path-to-regexp/archive/b0778f5e8e6c6e9ee4e2f5b34e877cc5229f8036.tar.gz
+info: path-to-regexp npm: | Project downloaded b0778f5e8e6c6e9ee4e2f5b34e877cc5229f8036.tar.gz
+info: path-to-regexp npm: | npm install started 
+warn: path-to-regexp npm-install:| fatal: not a git repository (or any parent up to mount point /)           
+warn:                            | Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+warn: path-to-regexp npm-install:| npm notice                                                   
+warn:                            | npm notice New minor version of npm available! 9.5.1 -> 9.6.6
+warn: path-to-regexp npm-install:| npm notice Changelog: <https://github.com/npm/cli/releases/tag/v9.6.6>
+warn:                            | npm notice Run `npm install -g npm@9.6.6` to update!                  
+warn:                            | npm notice                                                            
+info: path-to-regexp npm: | npm install successfully completed
+info: path-to-regexp npm: | test suite started  
+info: passing module(s)   |                     
+info: module name:        | path-to-regexp      
+info: version:            | 6.2.1               
+info: done                | The smoke test has passed.
+info: duration            | test duration: 30023ms
+pino: info: starting            | pino                
+info: lookup              | pino                
+info: lookup-found        | pino                
+info: pino lookup-replace | https://github.com/pinojs/pino/archive/171d8056a2a66c42e4bd2e13b5936b6a652af830.tar.gz
+info: pino npm:           | Downloading project: https://github.com/pinojs/pino/archive/171d8056a2a66c42e4bd2e13b5936b6a652af830.tar.gz
+info: pino npm:           | Project downloaded 171d8056a2a66c42e4bd2e13b5936b6a652af830.tar.gz
+info: pino npm:           | npm install started 
+warn: pino npm-install:   | npm notice                                                            
+warn:                     | npm notice New minor version of npm available! 9.5.1 -> 9.6.6         
+warn:                     | npm notice Changelog: <https://github.com/npm/cli/releases/tag/v9.6.6>
+warn:                     | npm notice Run `npm install -g npm@9.6.6` to update!                  
+warn:                     | npm notice                                                            
+info: pino npm:           | npm install successfully completed
+info: pino npm:           | test suite started  
+info: passing module(s)   |                     
+info: module name:        | pino                
+info: version:            | 8.14.1              
+info: done                | The smoke test has passed.
+info: duration            | test duration: 155751ms
+prom-client: info: starting            | prom-client         
+info: lookup              | prom-client         
+info: lookup-found        | prom-client         
+info: prom-client lookup-replace| https://github.com/siimon/prom-client/archive/e4c0a5410c9ffba89664891c97b4d47cbb6ac9f6.tar.gz
+info: prom-client npm:    | Downloading project: https://github.com/siimon/prom-client/archive/e4c0a5410c9ffba89664891c97b4d47cbb6ac9f6.tar.gz
+info: prom-client npm:    | Project downloaded e4c0a5410c9ffba89664891c97b4d47cbb6ac9f6.tar.gz
+info: prom-client npm:    | npm install started 
+warn: prom-client npm-install:| npm notice          
+warn: prom-client npm-install:| npm notice New minor version of npm available! 9.5.1 -> 9.6.6         
+warn:                         | npm notice Changelog: <https://github.com/npm/cli/releases/tag/v9.6.6>
+warn:                         | npm notice Run `npm install -g npm@9.6.6` to update!                  
+warn:                         | npm notice                                                            
+info: prom-client npm:    | npm install successfully completed
+info: prom-client npm:    | test suite started  
+info: passing module(s)   |                     
+info: module name:        | prom-client         
+info: version:            | 14.2.0              
+info: done                | The smoke test has passed.
+info: duration            | test duration: 41998ms
+pump: info: starting            | pump                
+info: lookup              | pump                
+info: lookup-found        | pump                
+info: pump lookup-replace | https://github.com/mafintosh/pump/archive/b05d1838cc3be47f7c3cd9020c73f6ebbafd3aa0.tar.gz
+info: pump npm:           | Downloading project: https://github.com/mafintosh/pump/archive/b05d1838cc3be47f7c3cd9020c73f6ebbafd3aa0.tar.gz
+info: pump npm:           | Project downloaded b05d1838cc3be47f7c3cd9020c73f6ebbafd3aa0.tar.gz
+info: pump npm:           | npm install started 
+warn: pump npm-install:   | npm notice                                                            
+warn:                     | npm notice New minor version of npm available! 9.5.1 -> 9.6.6         
+warn:                     | npm notice Changelog: <https://github.com/npm/cli/releases/tag/v9.6.6>
+warn:                     | npm notice Run `npm install -g npm@9.6.6` to update!                  
+warn:                     | npm notice                                                            
+info: pump npm:           | npm install successfully completed
+info: pump npm:           | test suite started  
+info: passing module(s)   |                     
+info: module name:        | pump                
+info: version:            | 3.0.0               
+info: done                | The smoke test has passed.
+info: duration            | test duration: 6527ms
+pumpify: info: starting            | pumpify             
+info: lookup              | pumpify             
+info: lookup-found        | pumpify             
+info: pumpify lookup-replace| https://github.com/mafintosh/pumpify/archive/106097fbb7a09edf7c5f6f387ea2533fde4d0d47.tar.gz
+info: pumpify npm:        | Downloading project: https://github.com/mafintosh/pumpify/archive/106097fbb7a09edf7c5f6f387ea2533fde4d0d47.tar.gz
+info: pumpify npm:        | Project downloaded 106097fbb7a09edf7c5f6f387ea2533fde4d0d47.tar.gz
+info: pumpify npm:        | npm install started 
+warn: pumpify npm-install:| npm notice                                                            
+warn:                     | npm notice New minor version of npm available! 9.5.1 -> 9.6.6         
+warn:                     | npm notice Changelog: <https://github.com/npm/cli/releases/tag/v9.6.6>
+warn:                     | npm notice Run `npm install -g npm@9.6.6` to update!                  
+warn:                     | npm notice                                                            
+info: pumpify npm:        | npm install successfully completed
+info: pumpify npm:        | test suite started  
+info: passing module(s)   |                     
+info: module name:        | pumpify             
+info: version:            | 2.0.1               
+info: done                | The smoke test has passed.
+info: duration            | test duration: 7517ms
+q: info: starting            | q                   
+info: lookup              | q                   
+info: lookup-found        | q                   
+info: q lookup-replace    | https://github.com/kriskowal/q/archive/c2f5a6f35456389a806acca50bfd929cbe30c4cb.tar.gz
+info: q npm:              | Downloading project: https://github.com/kriskowal/q/archive/c2f5a6f35456389a806acca50bfd929cbe30c4cb.tar.gz
+info: q npm:              | Project downloaded c2f5a6f35456389a806acca50bfd929cbe30c4cb.tar.gz
+info: q npm:              | npm install started 
+warn: q npm-install:      | npm                 
+warn: q npm-install:      | notice                                                                
+warn:                     | npm notice New minor version of npm available! 9.5.1 -> 9.6.6         
+warn:                     | npm notice Changelog: <https://github.com/npm/cli/releases/tag/v9.6.6>
+warn:                     | npm notice Run `npm install -g npm@9.6.6` to update!                  
+warn:                     | npm notice                                                            
+info: q npm:              | npm install successfully completed
+info: q npm:              | test suite started  
+info: passing module(s)   |                     
+info: module name:        | q                   
+info: version:            | 1.5.1               
+info: done                | The smoke test has passed.
+info: duration            | test duration: 16039ms
+radium: info: starting            | radium              
+info: lookup              | radium              
+info: lookup-found        | radium              
+info: radium lookup-replace| https://github.com/formidablelabs/radium/archive/2a610143aa7e6f2c1510063357639803ad554bc2.tar.gz
+info: radium yarn:        | Downloading project: https://github.com/formidablelabs/radium/archive/2a610143aa7e6f2c1510063357639803ad554bc2.tar.gz
+info: radium npm:         | Project downloaded 2a610143aa7e6f2c1510063357639803ad554bc2.tar.gz
+info: radium yarn:        | yarn install started
+warn: radium yarn-install:| warning " > webpack-dev-server@3.1.11" has incorrect peer dependency "webpack@^4.0.0".
+warn: radium yarn-install:| warning "webpack-dev-server > webpack-dev-middleware@3.4.0" has incorrect peer dependency "webpack@^4.0.0".
+warn: radium yarn-install:| /bin/sh: line 1: cd: lib: No such file or directory
+warn: radium yarn-install:| Browserslist: caniuse-lite is outdated. Please run next command `yarn upgrade`
+warn: radium yarn-install:| Browserslist: caniuse-lite is outdated. Please run next command `yarn upgrade`
+warn: radium yarn-install:| Browserslist: caniuse-lite is outdated. Please run next command `yarn upgrade`
+warn:                     | Browserslist: caniuse-lite is outdated. Please run next command `yarn upgrade`
+warn: radium yarn-install:| npm                 
+warn: radium yarn-install:| notice                                                                
+warn:                     | npm notice New minor version of npm available! 9.5.1 -> 9.6.6         
+warn:                     | npm notice Changelog: <https://github.com/npm/cli/releases/tag/v9.6.6>
+warn:                     | npm notice Run `npm install -g npm@9.6.6` to update!                  
+warn:                     | npm                                                                   
+warn: radium yarn-install:| notice              
+info: radium yarn:        | yarn install successfully completed
+info: radium yarn:        | test suite started  
+info: passing module(s)   |                     
+info: module name:        | radium              
+info: version:            | 0.26.2              
+info: done                | The smoke test has passed.
+info: duration            | test duration: 39303ms
+readable-stream: info: starting            | readable-stream     
+info: lookup              | readable-stream     
+info: lookup-found        | readable-stream     
+info: readable-stream lookup-replace| https://github.com/nodejs/readable-stream/archive/3cd3295a043fc4e68bf0713877df38f885d6590e.tar.gz
+info: readable-stream npm:| Downloading project: https://github.com/nodejs/readable-stream/archive/3cd3295a043fc4e68bf0713877df38f885d6590e.tar.gz
+info: readable-stream npm:| Project downloaded 3cd3295a043fc4e68bf0713877df38f885d6590e.tar.gz
+info: readable-stream npm:| npm install started 
+warn: readable-stream npm-install:| npm notice                                                            
+warn:                             | npm notice New minor version of npm available! 9.5.1 -> 9.6.6         
+warn:                             | npm notice Changelog: <https://github.com/npm/cli/releases/tag/v9.6.6>
+warn:                             | npm notice Run `npm install -g npm@9.6.6` to update!                  
+warn:                             | npm notice                                                            
+info: readable-stream npm:| npm install successfully completed
+info: readable-stream npm:| test suite started  
+info: passing module(s)   |                     
+info: module name:        | readable-stream     
+info: version:            | 4.4.0               
+info: done                | The smoke test has passed.
+info: duration            | test duration: 95062ms
+resolve: info: starting            | resolve             
+info: lookup              | resolve             
+info: lookup-found        | resolve             
+info: resolve lookup-replace| https://github.com/browserify/resolve/archive/c2f9ce254f0157b5e2e53e9aee0403c510909f7d.tar.gz
+info: resolve npm:        | Downloading project: https://github.com/browserify/resolve/archive/c2f9ce254f0157b5e2e53e9aee0403c510909f7d.tar.gz
+info: resolve npm:        | Project downloaded c2f9ce254f0157b5e2e53e9aee0403c510909f7d.tar.gz
+info: resolve npm:        | npm install started 
+warn: resolve npm-install:| npm notice          
+warn: resolve npm-install:| npm notice New minor version of npm available! 9.5.1 -> 9.6.6         
+warn:                     | npm notice Changelog: <https://github.com/npm/cli/releases/tag/v9.6.6>
+warn:                     | npm notice Run `npm install -g npm@9.6.6` to update!                  
+warn:                     | npm notice                                                            
+info: resolve npm:        | npm install successfully completed
+info: resolve npm:        | test suite started  
+info: passing module(s)   |                     
+info: module name:        | resolve             
+info: version:            | 1.22.2              
+info: done                | The smoke test has passed.
+info: duration            | test duration: 60011ms
+rewire: info: starting            | rewire              
+info: lookup              | rewire              
+info: lookup-found        | rewire              
+info: rewire lookup-replace| https://github.com/jhnns/rewire/archive/9e7f846fcf7872c4968856fcde1131b627974a60.tar.gz
+info: rewire npm:         | Downloading project: https://github.com/jhnns/rewire/archive/9e7f846fcf7872c4968856fcde1131b627974a60.tar.gz
+info: rewire npm:         | Project downloaded 9e7f846fcf7872c4968856fcde1131b627974a60.tar.gz
+info: rewire npm:         | npm install started 
+warn: rewire npm-install: | npm notice                                                            
+warn:                     | npm notice New minor version of npm available! 9.5.1 -> 9.6.6         
+warn:                     | npm notice Changelog: <https://github.com/npm/cli/releases/tag/v9.6.6>
+warn:                     | npm notice Run `npm install -g npm@9.6.6` to update!                  
+warn:                     | npm notice                                                            
+info: rewire npm:         | npm install successfully completed
+info: rewire npm:         | test suite started  
+info: passing module(s)   |                     
+info: module name:        | rewire              
+info: version:            | 6.0.0               
+info: done                | The smoke test has passed.
+info: duration            | test duration: 10913ms
+rimraf: info: starting            | rimraf              
+info: lookup              | rimraf              
+info: lookup-found        | rimraf              
+info: rimraf lookup-replace| https://github.com/isaacs/rimraf/archive/bfda548deddff84ca2b7ced40675b1b2648ee9bb.tar.gz
+info: rimraf npm:         | Downloading project: https://github.com/isaacs/rimraf/archive/bfda548deddff84ca2b7ced40675b1b2648ee9bb.tar.gz
+info: rimraf npm:         | Project downloaded bfda548deddff84ca2b7ced40675b1b2648ee9bb.tar.gz
+info: rimraf npm:         | npm install started 
+info: rimraf npm:         | npm install successfully completed
+info: rimraf npm:         | test suite started  
+info: passing module(s)   |                     
+info: module name:        | rimraf              
+info: version:            | 5.0.1               
+info: done                | The smoke test has passed.
+info: duration            | test duration: 44173ms
+router: info: starting            | router              
+info: lookup              | router              
+info: lookup-found        | router              
+info: router lookup-replace| https://github.com/pillarjs/router/archive/86a5f765838d863419c75e80a4f1dda9759657b7.tar.gz
+info: router npm:         | Downloading project: https://github.com/pillarjs/router/archive/86a5f765838d863419c75e80a4f1dda9759657b7.tar.gz
+info: router npm:         | Project downloaded 86a5f765838d863419c75e80a4f1dda9759657b7.tar.gz
+info: router npm:         | npm install started 
+warn: router npm-install: | npm notice                                                            
+warn:                     | npm notice New minor version of npm available! 9.5.1 -> 9.6.6         
+warn:                     | npm notice Changelog: <https://github.com/npm/cli/releases/tag/v9.6.6>
+warn:                     | npm notice Run `npm install -g npm@9.6.6` to update!                  
+warn:                     | npm notice                                                            
+info: router npm:         | npm install successfully completed
+info: router npm:         | test suite started  
+info: passing module(s)   |                     
+info: module name:        | router              
+info: version:            | 1.3.8               
+info: done                | The smoke test has passed.
+info: duration            | test duration: 14954ms
+sax: info: starting            | sax                 
+info: lookup              | sax                 
+info: lookup-found        | sax                 
+info: sax lookup-replace  | https://github.com/isaacs/sax-js/archive/5aee2163d55cff24b817bbf550bac44841f9df45.tar.gz
+info: sax npm:            | Downloading project: https://github.com/isaacs/sax-js/archive/5aee2163d55cff24b817bbf550bac44841f9df45.tar.gz
+info: sax npm:            | Project downloaded 5aee2163d55cff24b817bbf550bac44841f9df45.tar.gz
+info: sax npm:            | npm install started 
+warn: sax npm-install:    | npm                 
+warn: sax npm-install:    | notice                                                                
+warn:                     | npm notice New minor version of npm available! 9.5.1 -> 9.6.6         
+warn:                     | npm notice Changelog: <https://github.com/npm/cli/releases/tag/v9.6.6>
+warn:                     | npm notice Run `npm install -g npm@9.6.6` to update!                  
+warn:                     | npm notice                                                            
+info: sax npm:            | npm install successfully completed
+info: sax npm:            | test suite started  
+info: passing module(s)   |                     
+info: module name:        | sax                 
+info: version:            | 1.2.4               
+info: done                | The smoke test has passed.
+info: duration            | test duration: 24911ms
+serialport: info: starting            | serialport          
+info: lookup              | serialport          
+info: lookup-found        | serialport          
+info: serialport lookup-replace| https://github.com/serialport/node-serialport/archive/6a8202cd947c87ac70c9f3c84d60fe4b5f5d70a9.tar.gz
+info: serialport npm:     | Downloading project: https://github.com/serialport/node-serialport/archive/6a8202cd947c87ac70c9f3c84d60fe4b5f5d70a9.tar.gz
+info: serialport npm:     | Project downloaded 6a8202cd947c87ac70c9f3c84d60fe4b5f5d70a9.tar.gz
+info: serialport npm:     | npm install started 
+warn: serialport npm-install:| reusing global emitter
+warn: serialport npm-install:| lerna notice        
+warn: serialport npm-install:| cli v6.6.1          
+warn: serialport npm-install:| lerna               
+warn: serialport npm-install:| info Bootstrapping 15 packages
+warn: serialport npm-install:| lerna               
+warn: serialport npm-install:| info Installing external dependencies
+warn: serialport npm-install:| lerna               
+warn: serialport npm-install:| info Symlinking packages and binaries
+warn: serialport npm-install:| lerna WARN EREPLACE_EXIST @serialport/parser-delimiter is already installed for serialport. Replacing with symlink...
+warn: serialport npm-install:| lerna WARN EREPLACE_EXIST @serialport/parser-readline is already installed for serialport. Replacing with symlink...
+warn: serialport npm-install:| lerna               
+warn: serialport npm-install:| success Bootstrapped 15 packages
+warn: serialport npm-install:| npm notice          
+warn:                        | npm notice          
+warn: serialport npm-install:| New minor version of npm available! 9.5.1 -> 9.6.6                    
+warn:                        | npm notice Changelog: <https://github.com/npm/cli/releases/tag/v9.6.6>
+warn:                        | npm notice Run `npm install -g npm@9.6.6` to update!                  
+warn:                        | npm notice                                                            
+info: serialport npm:     | npm install successfully completed
+info: serialport npm:     | test suite started  
+info: passing module(s)   |                     
+info: module name:        | serialport          
+info: version:            | 11.0.0              
+info: done                | The smoke test has passed.
+info: duration            | test duration: 33332ms
+spawn-wrap: info: starting            | spawn-wrap          
+info: lookup              | spawn-wrap          
+info: lookup-found        | spawn-wrap          
+info: spawn-wrap lookup-replace| https://github.com/istanbuljs/spawn-wrap/archive/c1c6cea28dc9d6760ae2c4eebeff8a60a80d7fd7.tar.gz
+info: spawn-wrap npm:     | Downloading project: https://github.com/istanbuljs/spawn-wrap/archive/c1c6cea28dc9d6760ae2c4eebeff8a60a80d7fd7.tar.gz
+info: spawn-wrap npm:     | Project downloaded c1c6cea28dc9d6760ae2c4eebeff8a60a80d7fd7.tar.gz
+info: spawn-wrap npm:     | npm install started 
+warn: spawn-wrap npm-install:| npm notice          
+warn: spawn-wrap npm-install:| npm notice New minor version of npm available! 9.5.1 -> 9.6.6         
+warn:                        | npm notice Changelog: <https://github.com/npm/cli/releases/tag/v9.6.6>
+warn:                        | npm notice Run `npm install -g npm@9.6.6` to update!                  
+warn:                        | npm notice                                                            
+info: spawn-wrap npm:     | npm install successfully completed
+info: spawn-wrap npm:     | test suite started  
+info: passing module(s)   |                     
+info: module name:        | spawn-wrap          
+info: version:            | 2.0.0               
+info: done                | The smoke test has passed.
+info: duration            | test duration: 18438ms
+spdy-transport: info: starting            | spdy-transport      
+info: lookup              | spdy-transport      
+info: lookup-found        | spdy-transport      
+info: spdy-transport lookup-replace| https://github.com/spdy-http2/spdy-transport/archive/f177937e614db6b53bebb10976e4055ecbfc767f.tar.gz
+info: spdy-transport npm: | Downloading project: https://github.com/spdy-http2/spdy-transport/archive/f177937e614db6b53bebb10976e4055ecbfc767f.tar.gz
+info: spdy-transport npm: | Project downloaded f177937e614db6b53bebb10976e4055ecbfc767f.tar.gz
+info: spdy-transport npm: | npm install started 
+warn: spdy-transport npm-install:| npm notice                                                            
+warn:                            | npm notice New minor version of npm available! 9.5.1 -> 9.6.6         
+warn:                            | npm notice Changelog: <https://github.com/npm/cli/releases/tag/v9.6.6>
+warn:                            | npm notice Run `npm install -g npm@9.6.6` to update!                  
+warn:                            | npm notice                                                            
+info: spdy-transport npm: | npm install successfully completed
+info: spdy-transport npm: | test suite started  
+info: passing module(s)   |                     
+info: module name:        | spdy-transport      
+info: version:            | 3.0.0               
+info: done                | The smoke test has passed.
+info: duration            | test duration: 11010ms
+split2: info: starting            | split2              
+info: lookup              | split2              
+info: lookup-found        | split2              
+info: split2 lookup-replace| https://github.com/mcollina/split2/archive/HEAD.tar.gz
+info: split2 npm:         | Downloading project: https://github.com/mcollina/split2/archive/HEAD.tar.gz
+info: split2 npm:         | Project downloaded HEAD.tar.gz
+info: split2 npm:         | npm install started 
+warn: split2 npm-install: | npm                 
+warn: split2 npm-install: | notice                                                                
+warn:                     | npm notice New minor version of npm available! 9.5.1 -> 9.6.6         
+warn:                     | npm notice Changelog: <https://github.com/npm/cli/releases/tag/v9.6.6>
+warn:                     | npm notice Run `npm install -g npm@9.6.6` to update!                  
+warn:                     | npm notice                                                            
+info: split2 npm:         | npm install successfully completed
+info: split2 npm:         | test suite started  
+info: passing module(s)   |                     
+info: module name:        | split2              
+info: version:            | 4.2.0               
+info: done                | The smoke test has passed.
+info: duration            | test duration: 16317ms
+sqlite3: info: starting            | sqlite3             
+info: lookup              | sqlite3             
+info: lookup-found        | sqlite3             
+info: sqlite3 lookup-replace| https://github.com/TryGhost/node-sqlite3/archive/8598a9dc11322881fc0da58bba463ad0d3cd0613.tar.gz
+info: sqlite3 npm:        | Downloading project: https://github.com/TryGhost/node-sqlite3/archive/8598a9dc11322881fc0da58bba463ad0d3cd0613.tar.gz
+info: sqlite3 npm:        | Project downloaded 8598a9dc11322881fc0da58bba463ad0d3cd0613.tar.gz
+info: sqlite3 npm:        | npm install started 
+warn: sqlite3 npm-install:| npm                 
+warn: sqlite3 npm-install:| notice                                                                
+warn:                     | npm notice New minor version of npm available! 9.5.1 -> 9.6.6         
+warn:                     | npm notice Changelog: <https://github.com/npm/cli/releases/tag/v9.6.6>
+warn:                     | npm notice Run `npm install -g npm@9.6.6` to update!                  
+warn:                     | npm notice                                                            
+info: sqlite3 npm:        | npm install successfully completed
+info: sqlite3 npm:        | test suite started  
+info: passing module(s)   |                     
+info: module name:        | sqlite3             
+info: version:            | 5.1.6               
+info: done                | The smoke test has passed.
+info: duration            | test duration: 37362ms
+stylus: info: starting            | stylus              
+info: lookup              | stylus              
+info: lookup-found        | stylus              
+info: stylus lookup-replace| https://github.com/stylus/stylus/archive/8e29ff39fb563f91ef4eaff9b2c9f29e2a1910ec.tar.gz
+info: stylus npm:         | Downloading project: https://github.com/stylus/stylus/archive/8e29ff39fb563f91ef4eaff9b2c9f29e2a1910ec.tar.gz
+info: stylus npm:         | Project downloaded 8e29ff39fb563f91ef4eaff9b2c9f29e2a1910ec.tar.gz
+info: stylus npm:         | npm install started 
+info: stylus npm:         | npm install successfully completed
+info: stylus npm:         | test suite started  
+info: passing module(s)   |                     
+info: module name:        | stylus              
+info: version:            | 0.59.0              
+info: done                | The smoke test has passed.
+info: duration            | test duration: 11503ms
+tape: info: starting            | tape                
+info: lookup              | tape                
+info: lookup-found        | tape                
+info: tape lookup-replace | https://github.com/ljharb/tape/archive/HEAD.tar.gz
+info: tape npm:           | Downloading project: https://github.com/ljharb/tape/archive/HEAD.tar.gz
+info: tape npm:           | Project downloaded HEAD.tar.gz
+info: tape npm:           | npm install started 
+info: tape npm:           | npm install successfully completed
+info: tape npm:           | test suite started  
+info: passing module(s)   |                     
+info: module name:        | tape                
+info: version:            | 5.6.3               
+info: done                | The smoke test has passed.
+info: duration            | test duration: 134817ms
+thread-sleep: info: starting            | thread-sleep        
+info: lookup              | thread-sleep        
+info: lookup-found        | thread-sleep        
+info: thread-sleep lookup-replace| https://github.com/ForbesLindesay/thread-sleep/archive/b5568826ab289f2f6735f11a252eb347270a2878.tar.gz
+info: thread-sleep npm:   | Downloading project: https://github.com/ForbesLindesay/thread-sleep/archive/b5568826ab289f2f6735f11a252eb347270a2878.tar.gz
+info: thread-sleep npm:   | Project downloaded b5568826ab289f2f6735f11a252eb347270a2878.tar.gz
+info: thread-sleep npm:   | npm install started 
+info: thread-sleep npm:   | npm install successfully completed
+info: thread-sleep npm:   | test suite started  
+info: passing module(s)   |                     
+info: module name:        | thread-sleep        
+info: version:            | 2.2.0               
+info: done                | The smoke test has passed.
+info: duration            | test duration: 3735ms
+through2: info: starting            | through2            
+info: lookup              | through2            
+info: lookup-found        | through2            
+info: through2 lookup-replace| https://github.com/rvagg/through2/archive/ebe3d0b736115ffca785336301119979df70a708.tar.gz
+info: through2 npm:       | Downloading project: https://github.com/rvagg/through2/archive/ebe3d0b736115ffca785336301119979df70a708.tar.gz
+info: through2 npm:       | Project downloaded ebe3d0b736115ffca785336301119979df70a708.tar.gz
+info: through2 npm:       | npm install started 
+warn: through2 npm-install:| npm notice                                                            
+warn:                      | npm notice New minor version of npm available! 9.5.1 -> 9.6.6         
+warn:                      | npm notice Changelog: <https://github.com/npm/cli/releases/tag/v9.6.6>
+warn:                      | npm notice Run `npm install -g npm@9.6.6` to update!                  
+warn:                      | npm notice                                                            
+info: through2 npm:       | npm install successfully completed
+info: through2 npm:       | test suite started  
+info: passing module(s)   |                     
+info: module name:        | through2            
+info: version:            | 4.0.2               
+info: done                | The smoke test has passed.
+info: duration            | test duration: 42012ms
+throughv: info: starting            | throughv            
+info: lookup              | throughv            
+info: lookup-found        | throughv            
+info: throughv lookup-replace| https://github.com/mcollina/throughv/archive/07296026d726e9fc17cb974210288249a8cfbb3e.tar.gz
+info: throughv npm:       | Downloading project: https://github.com/mcollina/throughv/archive/07296026d726e9fc17cb974210288249a8cfbb3e.tar.gz
+info: throughv npm:       | Project downloaded 07296026d726e9fc17cb974210288249a8cfbb3e.tar.gz
+info: throughv npm:       | npm install started 
+info: throughv npm:       | npm install successfully completed
+info: throughv npm:       | test suite started  
+info: passing module(s)   |                     
+info: module name:        | throughv            
+info: version:            | 1.0.4               
+info: done                | The smoke test has passed.
+info: duration            | test duration: 16843ms
+torrent-stream: info: starting            | torrent-stream      
+info: lookup              | torrent-stream      
+info: lookup-found        | torrent-stream      
+info: torrent-stream lookup-replace| https://github.com/mafintosh/torrent-stream/archive/6f6417b40f5a955fbcb499cdddb0bad853e9cb25.tar.gz
+info: torrent-stream npm: | Downloading project: https://github.com/mafintosh/torrent-stream/archive/6f6417b40f5a955fbcb499cdddb0bad853e9cb25.tar.gz
+info: torrent-stream npm: | Project downloaded 6f6417b40f5a955fbcb499cdddb0bad853e9cb25.tar.gz
+info: torrent-stream npm: | npm install started 
+info: torrent-stream npm: | npm install successfully completed
+info: torrent-stream npm: | test suite started  
+info: passing module(s)   |                     
+info: module name:        | torrent-stream      
+info: version:            | 1.2.1               
+info: done                | The smoke test has passed.
+info: duration            | test duration: 45237ms
+tough-cookie: info: starting            | tough-cookie        
+info: lookup              | tough-cookie        
+info: lookup-found        | tough-cookie        
+info: tough-cookie lookup-replace| https://github.com/salesforce/tough-cookie/archive/b1a8898ee3f8af52c6c1c355555d9f50ebe626ce.tar.gz
+info: tough-cookie npm:   | Downloading project: https://github.com/salesforce/tough-cookie/archive/b1a8898ee3f8af52c6c1c355555d9f50ebe626ce.tar.gz
+info: tough-cookie npm:   | Project downloaded b1a8898ee3f8af52c6c1c355555d9f50ebe626ce.tar.gz
+info: tough-cookie npm:   | npm install started 
+warn: tough-cookie npm-install:| npm notice                                                            
+warn:                          | npm notice New minor version of npm available! 9.5.1 -> 9.6.6         
+warn:                          | npm notice Changelog: <https://github.com/npm/cli/releases/tag/v9.6.6>
+warn:                          | npm notice Run `npm install -g npm@9.6.6` to update!                  
+warn:                          | npm notice                                                            
+info: tough-cookie npm:   | npm install successfully completed
+info: tough-cookie npm:   | test suite started  
+info: passing module(s)   |                     
+info: module name:        | tough-cookie        
+info: version:            | 4.1.2               
+info: done                | The smoke test has passed.
+info: duration            | test duration: 24107ms
+uglify-js: info: starting            | uglify-js           
+info: lookup              | uglify-js           
+info: lookup-found        | uglify-js           
+info: uglify-js lookup-replace| https://github.com/mishoo/UglifyJS/archive/fb1bff2c0a9a58e0218f190d271b707ac309eeb5.tar.gz
+info: uglify-js npm:      | Downloading project: https://github.com/mishoo/UglifyJS/archive/fb1bff2c0a9a58e0218f190d271b707ac309eeb5.tar.gz
+info: uglify-js npm:      | Project downloaded fb1bff2c0a9a58e0218f190d271b707ac309eeb5.tar.gz
+info: uglify-js npm:      | npm install started 
+warn: uglify-js npm-install:| npm notice                                                            
+warn:                       | npm notice New minor version of npm available! 9.5.1 -> 9.6.6         
+warn:                       | npm notice Changelog: <https://github.com/npm/cli/releases/tag/v9.6.6>
+warn:                       | npm notice Run `npm install -g npm@9.6.6` to update!                  
+warn:                       | npm notice                                                            
+info: uglify-js npm:      | npm install successfully completed
+info: uglify-js npm:      | test suite started  
+info: passing module(s)   |                     
+info: module name:        | uglify-js           
+info: version:            | 3.17.4              
+info: done                | The smoke test has passed.
+info: duration            | test duration: 412621ms
+underscore: info: starting            | underscore          
+info: lookup              | underscore          
+info: lookup-found        | underscore          
+info: underscore lookup-replace| https://github.com/jashkenas/underscore/archive/1.13.6.tar.gz
+info: underscore npm:     | Downloading project: https://github.com/jashkenas/underscore/archive/1.13.6.tar.gz
+info: underscore npm:     | Project downloaded 1.13.6.tar.gz
+info: underscore npm:     | npm install started 
+warn: underscore npm-install:| npm                 
+warn: underscore npm-install:| notice                                                                
+warn:                        | npm notice New minor version of npm available! 9.5.1 -> 9.6.6         
+warn:                        | npm notice Changelog: <https://github.com/npm/cli/releases/tag/v9.6.6>
+warn:                        | npm notice Run `npm install -g npm@9.6.6` to update!                  
+warn:                        | npm notice                                                            
+info: underscore npm:     | npm install successfully completed
+info: underscore npm:     | test suite started  
+info: passing module(s)   |                     
+info: module name:        | underscore          
+info: version:            | 1.13.6              
+info: done                | The smoke test has passed.
+info: duration            | test duration: 28687ms
+undici: info: starting            | undici              
+info: lookup              | undici              
+info: lookup-found        | undici              
+info: undici lookup-replace| https://github.com/nodejs/undici/archive/9d30456aa6f195b83ea4ba36ed0b51a951e6bd87.tar.gz
+info: undici npm:         | Downloading project: https://github.com/nodejs/undici/archive/9d30456aa6f195b83ea4ba36ed0b51a951e6bd87.tar.gz
+info: undici npm:         | Project downloaded 9d30456aa6f195b83ea4ba36ed0b51a951e6bd87.tar.gz
+info: undici npm:         | npm install started 
+warn: undici npm-install: | fatal: not a git repository (or any parent up to mount point /)           
+warn:                     | Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+info: undici npm:         | npm install successfully completed
+info: undici npm:         | test suite started  
+info: passing module(s)   |                     
+info: module name:        | undici              
+info: version:            | 5.22.1              
+info: done                | The smoke test has passed.
+info: duration            | test duration: 194303ms
+uuid: info: starting            | uuid                
+info: lookup              | uuid                
+info: lookup-found        | uuid                
+info: uuid lookup-replace | https://github.com/uuidjs/uuid/archive/4cf24c018cead5ebe48cb4da232b57a2345d9fb5.tar.gz
+info: uuid npm:           | Downloading project: https://github.com/uuidjs/uuid/archive/4cf24c018cead5ebe48cb4da232b57a2345d9fb5.tar.gz
+info: uuid npm:           | Project downloaded 4cf24c018cead5ebe48cb4da232b57a2345d9fb5.tar.gz
+info: uuid npm:           | npm install started 
+warn: uuid npm-install:   | fatal: not a git repository (or any parent up to mount point /)           
+warn:                     | Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+warn: uuid npm-install:   | fatal: not a git repository (or any parent up to mount point /)           
+warn:                     | Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+warn: uuid npm-install:   | npm notice          
+warn:                     | npm                 
+warn: uuid npm-install:   | notice New minor version of npm available! 9.5.1 -> 9.6.6             
+warn:                     | npm notice Changelog: <https://github.com/npm/cli/releases/tag/v9.6.6>
+warn:                     | npm notice Run `npm install -g npm@9.6.6` to update!                  
+warn:                     | npm notice                                                            
+info: uuid npm:           | npm install successfully completed
+info: uuid npm:           | test suite started  
+info: passing module(s)   |                     
+info: module name:        | uuid                
+info: version:            | 9.0.0               
+info: done                | The smoke test has passed.
+info: duration            | test duration: 12811ms
+vinyl: info: starting            | vinyl               
+info: lookup              | vinyl               
+info: lookup-found        | vinyl               
+info: vinyl lookup-replace| https://github.com/gulpjs/vinyl/archive/6839b83ebcfa024d0bb686b6dd5488b2f62d7d80.tar.gz
+info: vinyl npm:          | Downloading project: https://github.com/gulpjs/vinyl/archive/6839b83ebcfa024d0bb686b6dd5488b2f62d7d80.tar.gz
+info: vinyl npm:          | Project downloaded 6839b83ebcfa024d0bb686b6dd5488b2f62d7d80.tar.gz
+info: vinyl npm:          | npm install started 
+warn: vinyl npm-install:  | npm notice                                                            
+warn:                     | npm notice New minor version of npm available! 9.5.1 -> 9.6.6         
+warn:                     | npm notice Changelog: <https://github.com/npm/cli/releases/tag/v9.6.6>
+warn:                     | npm notice Run `npm install -g npm@9.6.6` to update!                  
+warn:                     | npm notice                                                            
+info: vinyl npm:          | npm install successfully completed
+info: vinyl npm:          | test suite started  
+info: passing module(s)   |                     
+info: module name:        | vinyl               
+info: version:            | 3.0.0               
+info: done                | The smoke test has passed.
+info: duration            | test duration: 12703ms
+vinyl-fs: info: starting            | vinyl-fs            
+info: lookup              | vinyl-fs            
+info: lookup-found        | vinyl-fs            
+info: vinyl-fs lookup-replace| https://github.com/gulpjs/vinyl-fs/archive/HEAD.tar.gz
+info: vinyl-fs npm:       | Downloading project: https://github.com/gulpjs/vinyl-fs/archive/HEAD.tar.gz
+info: vinyl-fs npm:       | Project downloaded HEAD.tar.gz
+info: vinyl-fs npm:       | npm install started 
+warn: vinyl-fs npm-install:| npm notice                                                            
+warn:                      | npm notice New minor version of npm available! 9.5.1 -> 9.6.6         
+warn:                      | npm notice Changelog: <https://github.com/npm/cli/releases/tag/v9.6.6>
+warn:                      | npm notice Run `npm install -g npm@9.6.6` to update!                  
+warn:                      | npm notice                                                            
+info: vinyl-fs npm:       | npm install successfully completed
+info: vinyl-fs npm:       | test suite started  
+info: passing module(s)   |                     
+info: module name:        | vinyl-fs            
+info: version:            | 3.0.3               
+info: done                | The smoke test has passed.
+info: duration            | test duration: 30355ms
+watchify: info: starting            | watchify            
+info: lookup              | watchify            
+info: lookup-found        | watchify            
+info: watchify lookup-replace| https://github.com/browserify/watchify/archive/7b27a3c0d6bb796cef71faebfeb610ec62ad97b3.tar.gz
+info: watchify npm:       | Downloading project: https://github.com/browserify/watchify/archive/7b27a3c0d6bb796cef71faebfeb610ec62ad97b3.tar.gz
+info: watchify npm:       | Project downloaded 7b27a3c0d6bb796cef71faebfeb610ec62ad97b3.tar.gz
+info: watchify npm:       | npm install started 
+warn: watchify npm-install:| npm notice          
+warn: watchify npm-install:| npm notice New minor version of npm available! 9.5.1 -> 9.6.6         
+warn:                      | npm notice Changelog: <https://github.com/npm/cli/releases/tag/v9.6.6>
+warn:                      | npm notice Run `npm install -g npm@9.6.6` to update!                  
+warn:                      | npm notice                                                            
+info: watchify npm:       | npm install successfully completed
+info: watchify npm:       | test suite started  
+info: passing module(s)   |                     
+info: module name:        | watchify            
+info: version:            | 4.0.0               
+info: done                | The smoke test has passed.
+info: duration            | test duration: 25176ms
+weak: info: starting            | weak                
+info: lookup              | weak                
+info: lookup-found        | weak                
+info: weak lookup-replace | https://github.com/TooTallNate/node-weak/archive/HEAD.tar.gz
+info: weak npm:           | Downloading project: https://github.com/TooTallNate/node-weak/archive/HEAD.tar.gz
+info: weak npm:           | Project downloaded HEAD.tar.gz
+info: weak npm:           | npm install started 
+warn: weak npm-install:   | In file included from ../node_modules/nan/nan.h:60,                                                                                                                                                                                                                                                                                                                           
+warn:                     | from ../src/weakref.cc:18:                                                                                                                                                                                                                                                                                                                                                    
+warn:                     | /tmp/39d2a043-218f-48dd-b02c-08bee8ebf592/home/.cache/node-gyp/18.16.0/include/node/node.h:997:7: warning: cast between incompatible function types from ‘void (*)(Nan::ADDON_REGISTER_FUNCTION_ARGS_TYPE)’ {aka ‘void (*)(v8::Local<v8::Object>)’} to ‘node::addon_register_func’ {aka ‘void (*)(v8::Local<v8::Object>, v8::Local<v8::Value>, void*)’} [-Wcast-function-type]
+warn:                     | 997 |       (node::addon_register_func) (regfunc),                          \                                                                                                                                                                                                                                                                                                 
+warn:                     | |       ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~                                                                                                                                                                                                                                                                                                                                 
+warn:                     | /tmp/39d2a043-218f-48dd-b02c-08bee8ebf592/home/.cache/node-gyp/18.16.0/include/node/node.h:1031:3: note: in expansion of macro ‘NODE_MODULE_X’                                                                                                                                                                                                                                
+warn:                     | 1031 |   NODE_MODULE_X(modname, regfunc, NULL, 0)  // NOLINT (readability/null_usage)                                                                                                                                                                                                                                                                                         
+warn:                     | |   ^~~~~~~~~~~~~                                                                                                                                                                                                                                                                                                                                                             
+warn:                     | ../src/weakref.cc:289:1: note: in expansion of macro ‘NODE_MODULE’                                                                                                                                                                                                                                                                                                            
+warn:                     | 289 | NODE_MODULE(weakref, Initialize)                                                                                                                                                                                                                                                                                                                                        
+warn:                     | | ^~~~~~~~~~~                                                                                                                                                                                                                                                                                                                                                                 
+warn: weak npm-install:   | In file included from ../node_modules/nan/nan.h:2840:                                                                                                                                                                                                                                                                                                                                                                                          
+warn:                     | ../node_modules/nan/nan_weak.h: In instantiation of ‘Nan::WeakCallbackInfo<P>::WeakCallbackInfo(Nan::Persistent<v8::Value>*, Callback, void*, void*, void*) [with T = {anonymous}::proxy_container; Callback = void (*)(const Nan::WeakCallbackInfo<{anonymous}::proxy_container>&)]’:                                                                                                                                                         
+warn:                     | ../node_modules/nan/nan_weak.h:264:12:   required from ‘void Nan::Persistent<T, M>::SetWeak(P*, typename Nan::WeakCallbackInfo<P>::Callback, Nan::WeakCallbackType) [with P = {anonymous}::proxy_container; T = v8::Object; M = v8::NonCopyablePersistentTraits<v8::Object>; typename Nan::WeakCallbackInfo<P>::Callback = void (*)(const Nan::WeakCallbackInfo<{anonymous}::proxy_container>&); Nan::WeakCallbackType = v8::WeakCallbackType]’
+warn:                     | ../src/weakref.cc:189:23:   required from here                                                                                                                                                                                                                                                                                                                                                                                                 
+warn:                     | ../node_modules/nan/nan_weak.h:58:16: warning: ‘void* memcpy(void*, const void*, size_t)’ writing to an object of type ‘class v8::Persistent<v8::Value>’ with no trivial copy-assignment; use copy-assignment or copy-initialization instead [-Wclass-memaccess]                                                                                                                                                                               
+warn:                     | 58 |     std::memcpy(&persistent_, persistent, sizeof (v8::Persistent<v8::Value>));                                                                                                                                                                                                                                                                                                                                                            
+warn:                     | |     ~~~~~~~~~~~^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~                                                                                                                                                                                                                                                                                                                                                                
+warn:                     | In file included from /tmp/39d2a043-218f-48dd-b02c-08bee8ebf592/home/.cache/node-gyp/18.16.0/include/node/v8-object.h:10,                                                                                                                                                                                                                                                                                                                      
+warn:                     | from /tmp/39d2a043-218f-48dd-b02c-08bee8ebf592/home/.cache/node-gyp/18.16.0/include/node/v8-array-buffer.h:13,                                                                                                                                                                                                                                                                                                                                 
+warn:                     | from /tmp/39d2a043-218f-48dd-b02c-08bee8ebf592/home/.cache/node-gyp/18.16.0/include/node/v8.h:24,                                                                                                                                                                                                                                                                                                                                              
+warn:                     | from /tmp/39d2a043-218f-48dd-b02c-08bee8ebf592/home/.cache/node-gyp/18.16.0/include/node/node.h:73:                                                                                                                                                                                                                                                                                                                                            
+warn:                     | /tmp/39d2a043-218f-48dd-b02c-08bee8ebf592/home/.cache/node-gyp/18.16.0/include/node/v8-persistent-handle.h:276:7: note: ‘class v8::Persistent<v8::Value>’ declared here                                                                                                                                                                                                                                                                        
+warn:                     | 276 | class Persistent : public PersistentBase<T> {                                                                                                                                                                                                                                                                                                                                                                                            
+warn:                     | |       ^~~~~~~~~~                                                                                                                                                                                                                                                                                                                                                                                                                             
+warn: weak npm-install:   | npm                 
+warn: weak npm-install:   | notice                                                                
+warn:                     | npm notice New minor version of npm available! 9.5.1 -> 9.6.6         
+warn:                     | npm notice Changelog: <https://github.com/npm/cli/releases/tag/v9.6.6>
+warn:                     | npm notice Run `npm install -g npm@9.6.6` to update!                  
+warn:                     | npm notice                                                            
+info: weak npm:           | npm install successfully completed
+info: weak npm:           | test suite started  
+info: passing module(s)   |                     
+info: module name:        | weak                
+info: version:            | 1.0.1               
+info: done                | The smoke test has passed.
+info: duration            | test duration: 7263ms
+winston: info: starting            | winston             
+info: lookup              | winston             
+info: lookup-found        | winston             
+info: winston lookup-replace| https://github.com/winstonjs/winston/archive/101e2f45057ae16835bcc2f35ca00e77dd004465.tar.gz
+info: winston npm:        | Downloading project: https://github.com/winstonjs/winston/archive/101e2f45057ae16835bcc2f35ca00e77dd004465.tar.gz
+info: winston npm:        | Project downloaded 101e2f45057ae16835bcc2f35ca00e77dd004465.tar.gz
+info: winston npm:        | npm install started 
+warn: winston npm-install:| npm notice                                                            
+warn:                     | npm notice New minor version of npm available! 9.5.1 -> 9.6.6         
+warn:                     | npm notice Changelog: <https://github.com/npm/cli/releases/tag/v9.6.6>
+warn:                     | npm notice Run `npm install -g npm@9.6.6` to update!                  
+warn:                     | npm notice                                                            
+info: winston npm:        | npm install successfully completed
+info: winston npm:        | test suite started  
+info: passing module(s)   |                     
+info: module name:        | winston             
+info: version:            | 3.8.2               
+info: done                | The smoke test has passed.
+info: duration            | test duration: 52288ms
+ws: info: starting            | ws                  
+info: lookup              | ws                  
+info: lookup-found        | ws                  
+info: ws lookup-replace   | https://github.com/websockets/ws/archive/45e17acea791d865df6b255a55182e9c42e5877a.tar.gz
+info: ws npm:             | Downloading project: https://github.com/websockets/ws/archive/45e17acea791d865df6b255a55182e9c42e5877a.tar.gz
+info: ws npm:             | Project downloaded 45e17acea791d865df6b255a55182e9c42e5877a.tar.gz
+info: ws npm:             | npm install started 
+warn: ws npm-install:     | npm notice          
+warn:                     | npm notice          
+warn: ws npm-install:     | New minor version of npm available! 9.5.1 -> 9.6.6                    
+warn:                     | npm notice Changelog: <https://github.com/npm/cli/releases/tag/v9.6.6>
+warn:                     | npm notice Run `npm install -g npm@9.6.6` to update!                  
+warn:                     | npm notice                                                            
+info: ws npm:             | npm install successfully completed
+info: ws npm:             | test suite started  
+info: passing module(s)   |                     
+info: module name:        | ws                  
+info: version:            | 8.13.0              
+info: done                | The smoke test has passed.
+info: duration            | test duration: 15107ms
+yargs: info: starting            | yargs               
+info: lookup              | yargs               
+info: lookup-found        | yargs               
+info: yargs lookup-replace| https://github.com/yargs/yargs/archive/HEAD.tar.gz
+info: yargs npm:          | Downloading project: https://github.com/yargs/yargs/archive/HEAD.tar.gz
+info: yargs npm:          | Project downloaded HEAD.tar.gz
+info: yargs npm:          | npm install started 
+warn: yargs npm-install:  | [36m                                   
+warn:                     | [1m./lib/cjs.ts[22m → [1m./build/index.cjs[22m...[39m
+warn: yargs npm-install:  | DeprecationWarning: 'updateTypeAliasDeclaration' has been deprecated since v4.8.0. Decorators are no longer supported for this function. Callers should switch to an overload that does not accept a 'decorators' parameter.
+warn: yargs npm-install:  | DeprecationWarning: 'updateInterfaceDeclaration' has been deprecated since v4.8.0. Decorators are no longer supported for this function. Callers should switch to an overload that does not accept a 'decorators' parameter.
+warn: yargs npm-install:  | DeprecationWarning: 'isTypeAssertion' has been deprecated since v4.0.0. Use `isTypeAssertionExpression` instead.
+warn: yargs npm-install:  | DeprecationWarning: 'createImportDeclaration' has been deprecated since v4.8.0. Decorators are no longer supported for this function. Callers should switch to an overload that does not accept a 'decorators' parameter.
+warn: yargs npm-install:  | DeprecationWarning: 'createTypeParameterDeclaration' has been deprecated since v4.7.0. Use the overload that accepts 'modifiers'
+warn: yargs npm-install:  | DeprecationWarning: 'createTypeAliasDeclaration' has been deprecated since v4.8.0. Decorators are no longer supported for this function. Callers should switch to an overload that does not accept a 'decorators' parameter.
+warn: yargs npm-install:  | DeprecationWarning: 'createParameterDeclaration' has been deprecated since v4.8.0. Decorators have been combined with modifiers. Callers should switch to an overload that does not accept a 'decorators' parameter.
+warn: yargs npm-install:  | DeprecationWarning: 'createIndexSignature' has been deprecated since v4.8.0. Decorators are no longer supported for this function. Callers should switch to an overload that does not accept a 'decorators' parameter.      
+warn:                     | DeprecationWarning: 'createInterfaceDeclaration' has been deprecated since v4.8.0. Decorators are no longer supported for this function. Callers should switch to an overload that does not accept a 'decorators' parameter.
+warn: yargs npm-install:  | DeprecationWarning: 'updateFunctionDeclaration' has been deprecated since v4.8.0. Decorators are no longer supported for this function. Callers should switch to an overload that does not accept a 'decorators' parameter.
+warn: yargs npm-install:  | DeprecationWarning: 'createFunctionDeclaration' has been deprecated since v4.8.0. Decorators are no longer supported for this function. Callers should switch to an overload that does not accept a 'decorators' parameter.
+warn: yargs npm-install:  | DeprecationWarning: 'createModuleDeclaration' has been deprecated since v4.8.0. Decorators are no longer supported for this function. Callers should switch to an overload that does not accept a 'decorators' parameter.
+warn: yargs npm-install:  | DeprecationWarning: 'updateClassDeclaration' has been deprecated since v4.8.0. Decorators have been combined with modifiers. Callers should switch to an overload that does not accept a 'decorators' parameter.
+warn: yargs npm-install:  | DeprecationWarning: 'createPropertyDeclaration' has been deprecated since v4.8.0. Decorators have been combined with modifiers. Callers should switch to an overload that does not accept a 'decorators' parameter.
+warn: yargs npm-install:  | DeprecationWarning: 'createConstructorDeclaration' has been deprecated since v4.8.0. Decorators are no longer supported for this function. Callers should switch to an overload that does not accept a 'decorators' parameter.
+warn: yargs npm-install:  | DeprecationWarning: 'createClassDeclaration' has been deprecated since v4.8.0. Decorators have been combined with modifiers. Callers should switch to an overload that does not accept a 'decorators' parameter.
+warn: yargs npm-install:  | DeprecationWarning: 'updateImportTypeNode' has been deprecated since v4.6.0. Use the overload that accepts 'assertions'
+warn: yargs npm-install:  | DeprecationWarning: 'createMethodDeclaration' has been deprecated since v4.8.0. Decorators have been combined with modifiers. Callers should switch to an overload that does not accept a 'decorators' parameter.
+warn: yargs npm-install:  | DeprecationWarning: 'updateParameterDeclaration' has been deprecated since v4.8.0. Decorators have been combined with modifiers. Callers should switch to an overload that does not accept a 'decorators' parameter.
+warn: yargs npm-install:  | DeprecationWarning: 'updatePropertyDeclaration' has been deprecated since v4.8.0. Decorators have been combined with modifiers. Callers should switch to an overload that does not accept a 'decorators' parameter.
+warn: yargs npm-install:  | DeprecationWarning: 'updateConstructorDeclaration' has been deprecated since v4.8.0. Decorators are no longer supported for this function. Callers should switch to an overload that does not accept a 'decorators' parameter.
+warn: yargs npm-install:  | DeprecationWarning: 'updateTypeParameterDeclaration' has been deprecated since v4.7.0. Use the overload that accepts 'modifiers'
+warn: yargs npm-install:  | DeprecationWarning: 'updateMethodDeclaration' has been deprecated since v4.8.0. Decorators have been combined with modifiers. Callers should switch to an overload that does not accept a 'decorators' parameter.
+warn: yargs npm-install:  | DeprecationWarning: 'createExportDeclaration' has been deprecated since v4.8.0. Decorators are no longer supported for this function. Callers should switch to an overload that does not accept a 'decorators' parameter.
+warn: yargs npm-install:  | [1m[33m(!) Unresolved dependencies[39m[22m
+warn: yargs npm-install:  | [90mhttps://rollupjs.org/guide/en/#warning-treating-module-as-external-dependency[39m
+warn:                     | [1massert[22m (imported by lib/platform-shims/cjs.ts)                               
+warn:                     | [1m[33m(!) Circular dependency[39m[22m                                                      
+warn:                     | lib/yargs-factory.ts -> lib/command.ts -> lib/yargs-factory.ts               
+warn:                     | [32mcreated [1m./build/index.cjs[22m in [1m5.8s[22m[39m                                            
+warn: yargs npm-install:  | npm                 
+warn: yargs npm-install:  | notice                                                                
+warn:                     | npm notice New minor version of npm available! 9.5.1 -> 9.6.6         
+warn:                     | npm notice Changelog: <https://github.com/npm/cli/releases/tag/v9.6.6>
+warn:                     | npm notice Run `npm install -g npm@9.6.6` to update!                  
+warn:                     | npm notice                                                            
+info: yargs npm:          | npm install successfully completed
+info: yargs npm:          | test suite started  
+info: passing module(s)   |                     
+info: module name:        | yargs               
+info: version:            | 17.7.2              
+info: done                | The smoke test has passed.
+info: duration            | test duration: 84049ms
+yeoman-generator: info: starting            | yeoman-generator    
+info: lookup              | yeoman-generator    
+info: lookup-found        | yeoman-generator    
+info: yeoman-generator lookup-replace| https://github.com/yeoman/generator/archive/136db0bacafbda102731d8074fa2a8cf4ffdae8a.tar.gz
+info: yeoman-generator npm:| Downloading project: https://github.com/yeoman/generator/archive/136db0bacafbda102731d8074fa2a8cf4ffdae8a.tar.gz
+info: yeoman-generator npm:| Project downloaded 136db0bacafbda102731d8074fa2a8cf4ffdae8a.tar.gz
+info: yeoman-generator npm:| npm install started 
+warn: yeoman-generator npm-install:| npm notice                                                            
+warn:                              | npm notice New minor version of npm available! 9.5.1 -> 9.6.6         
+warn:                              | npm notice Changelog: <https://github.com/npm/cli/releases/tag/v9.6.6>
+warn:                              | npm notice Run `npm install -g npm@9.6.6` to update!                  
+warn:                              | npm notice                                                            
+info: yeoman-generator npm:| npm install successfully completed
+info: yeoman-generator npm:| test suite started  
+info: passing module(s)   |                     
+info: module name:        | yeoman-generator    
+info: version:            | 5.8.0               
+info: done                | The smoke test has passed.
+info: duration            | test duration: 38287ms
