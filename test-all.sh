@@ -12,7 +12,16 @@ completed_attributes=0
 # Extract attribute names using jq from the file
 attribute_names=$(jq -r 'keys[]' "$json_file")
 
-echo "Node version: $node_version Arch version: $arch" 
+echo "Would you like to remove old files $citgm_failed_file and $citgm_passed_file? [y/n]"
+read -r response
+
+if [ "$response" = "y" ]; then
+    echo "Removing old files $citgm_failed_file and $citgm_passed_file"
+    rm -f "$citgm_failed_file"
+    rm -f "$citgm_passed_file"
+fi
+
+echo "Node version: $node_version Arch version: $arch"
 
 for attribute_name in $attribute_names; do
     completed_attributes=$((completed_attributes + 1))
@@ -20,12 +29,12 @@ for attribute_name in $attribute_names; do
     echo "Processing $attribute_name [$completed_attributes/$total_attributes]"
     if output=$(./bin/citgm.js "$attribute_name" 2>&1); then
         echo "$attribute_name command succeeded."
-        echo "$attribute_name: $output" >> "$citgm_passed_file"
-        echo "------> $attribute_name passed" >> "$citgm_passed_file"
+        echo "$attribute_name: $output" >>"$citgm_passed_file"
+        echo "------> $attribute_name passed" >>"$citgm_passed_file"
     else
         echo "$attribute_name command failed."
-        echo "$attribute_name: $output" >> "$citgm_failed_file"
-        echo "------> $attribute_name failed" >> "$citgm_failed_file"
+        echo "$attribute_name: $output" >>"$citgm_failed_file"
+        echo "------> $attribute_name failed" >>"$citgm_failed_file"
     fi
 done
 
