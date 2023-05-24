@@ -21,9 +21,11 @@ for attribute_name in $attribute_names; do
     if output=$(./bin/citgm.js "$attribute_name" 2>&1); then
         echo "$attribute_name command succeeded."
         echo "$attribute_name: $output" >> "$citgm_passed_file"
+        echo "------> $attribute_name passed" >> "$citgm_passed_file"
     else
         echo "$attribute_name command failed."
         echo "$attribute_name: $output" >> "$citgm_failed_file"
+        echo "------> $attribute_name failed" >> "$citgm_failed_file"
     fi
 done
 
