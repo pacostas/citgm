@@ -27,7 +27,7 @@ for attribute_name in $attribute_names; do
     completed_attributes=$((completed_attributes + 1))
 
     echo "Processing $attribute_name [$completed_attributes/$total_attributes]"
-    if output=$(./bin/citgm.js "$attribute_name" 2>&1); then
+    if output=$(../bin/citgm.js "$attribute_name" 2>&1); then
         echo "$attribute_name command succeeded."
         echo "$attribute_name: $output" >>"$citgm_passed_file"
         echo "------> $attribute_name passed" >>"$citgm_passed_file"
